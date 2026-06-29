@@ -17,7 +17,7 @@ I update this repo daily with whatever I study each day.
 
 ## Weekly Progress
 
-### Week 1 - HTML and CSS Basics
+### Week 1 - HTML and CSS Basics (June 22 - June 26)
 
 | Date    | Topic                                  |
 |---------|----------------------------------------|
@@ -26,6 +26,14 @@ I update this repo daily with whatever I study each day.
 | June 24 | CSS and Page Layouts                   |
 | June 25 | Internal and External CSS              |
 | June 26 | Background Images, Web Fonts, Shadows  |
+
+---
+
+### Week 2 - Advanced CSS (June 29 onwards)
+
+| Date    | Topic                                  |
+|---------|----------------------------------------|
+| June 29 | CSS Flexbox and Grid Layout            |
 
 ---
 
@@ -38,6 +46,7 @@ my-web-learning/
   june-24/  - CSS and Page Layouts
   june-25/  - Internal and External CSS
   june-26/  - Background Images, Web Fonts and Shadows
+  june-29/  - CSS Flexbox and Grid Layout
 
 ---
 
