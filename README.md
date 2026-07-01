@@ -35,6 +35,7 @@ I update this repo daily with whatever I study each day.
 |---------|----------------------------------------|
 | June 29 | CSS Flexbox and Grid Layout            |
 | June 30 | CSS Positioning                        |
+| July 1  | CSS Animations                         |
 
 ---
 
@@ -49,6 +50,7 @@ my-web-learning/
   june-26/  - Background Images, Web Fonts and Shadows
   june-29/  - CSS Flexbox and Grid Layout
   june-30/  - CSS Positioning
+  july-01/  - CSS Animations
 
 ---
 
