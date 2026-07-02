@@ -29,13 +29,21 @@ I update this repo daily with whatever I study each day.
 
 ---
 
-### Week 2 - Advanced CSS (June 29 onwards)
+### Week 2 - Advanced CSS (June 29 - July 1)
 
 | Date    | Topic                                  |
 |---------|----------------------------------------|
 | June 29 | CSS Flexbox and Grid Layout            |
 | June 30 | CSS Positioning                        |
 | July 1  | CSS Animations                         |
+
+---
+
+### Week 3 - JavaScript (July 2 onwards)
+
+| Date    | Topic                                  |
+|---------|----------------------------------------|
+| July 2  | JavaScript Data Types                  |
 
 ---
 
@@ -51,6 +59,7 @@ my-web-learning/
   june-29/  - CSS Flexbox and Grid Layout
   june-30/  - CSS Positioning
   july-01/  - CSS Animations
+  july-02/  - JavaScript Data Types
 
 ---
 
