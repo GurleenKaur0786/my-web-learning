@@ -19,24 +19,25 @@ I update this repo daily with whatever I study each day.
 
 ### Week 1 - HTML and CSS Basics (June 22 - June 26)
 
-| Date    | Topic                                  |
-|---------|----------------------------------------|
-| June 22 | HTML Tags and Multimedia               |
-| June 23 | Anchor Tags and Forms                  |
-| June 24 | CSS and Page Layouts                   |
-| June 25 | Internal and External CSS              |
-| June 26 | Background Images, Web Fonts, Shadows  |
+| Date    | Topic                                              |
+|---------|----------------------------------------------------|
+| June 22 | HTML Tags and Multimedia                           |
+| June 23 | Anchor Tags and Forms                              |
+| June 24 | CSS and Page Layouts                               |
+| June 25 | Internal and External CSS                          |
+| June 26 | Background Images, Web Fonts, Shadows              |
 
 ---
 
 ### Week 2 - Advanced CSS and JavaScript Intro (June 29 - July 3)
 
-| Date    | Topic                                  |
-|---------|----------------------------------------|
-| June 29 | CSS Flexbox and Grid Layout            |
-| June 30 | CSS Positioning                        |
-| July 1  | CSS Animations                         |
-| July 2  | JavaScript Data Types                  |
+| Date    | Topic                                              |
+|---------|----------------------------------------------------|
+| June 29 | CSS Flexbox and Grid Layout                        |
+| June 30 | CSS Positioning                                    |
+| July 1  | CSS Animations                                     |
+| July 2  | JavaScript Data Types                              |
+| July 3  | JS Functions, Event Handling, Async/Await, Fetch   |
 
 ---
 
@@ -53,6 +54,7 @@ my-web-learning/
   june-30/  - CSS Positioning
   july-01/  - CSS Animations
   july-02/  - JavaScript Data Types
+  july-03/  - JS Functions, Event Handling, Async/Await and Fetch API
 
 ---
 
