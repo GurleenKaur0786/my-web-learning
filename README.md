@@ -29,7 +29,7 @@ I update this repo daily with whatever I study each day.
 
 ---
 
-### Week 2 - Advanced CSS and JavaScript Intro (June 29 - July 3)
+### Week 2 - Advanced CSS and JavaScript (June 29 - July 3)
 
 | Date    | Topic                                              |
 |---------|----------------------------------------------------|
@@ -38,6 +38,24 @@ I update this repo daily with whatever I study each day.
 | July 1  | CSS Animations                                     |
 | July 2  | JavaScript Data Types                              |
 | July 3  | JS Functions, Event Handling, Async/Await, Fetch   |
+
+---
+
+### Week 3 - React and MERN Stack (July 6 onwards)
+
+| Date    | Topic                                              |
+|---------|----------------------------------------------------|
+| July 6  | Basics of React and MERN Stack                     |
+
+---
+
+## Current Project
+### Employee Management System (Starting July 7, 2026)
+A full stack MERN application with:
+- React frontend with full CRUD operations
+- Node.js and Express REST API backend
+- MongoDB database with Mongoose
+- Features: Add, Edit, Delete, Search, Filter employees
 
 ---
 
@@ -55,12 +73,14 @@ my-web-learning/
   july-01/  - CSS Animations
   july-02/  - JavaScript Data Types
   july-03/  - JS Functions, Event Handling, Async/Await and Fetch API
+  july-06/  - Basics of React and MERN Stack
 
 ---
 
 ## Goals
 - Update this diary every single day
 - Complete the MERN Stack course
+- Build Employee Management System project
 - Build real world projects
 - Get job ready as a Full Stack Developer
 
