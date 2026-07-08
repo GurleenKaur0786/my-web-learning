@@ -46,11 +46,15 @@ I update this repo daily with whatever I study each day.
 | Date    | Topic                                              |
 |---------|----------------------------------------------------|
 | July 6  | Basics of React and MERN Stack                     |
+| July 9  | EMS Project Day 1 - Frontend (Vite+React+Tailwind) & Backend (Express) |
 
 ---
 
 ## Current Project
 ### Employee Management System (Starting July 7, 2026)
+
+**Progress:**
+- Day 1 (July 9): Set up frontend with Vite + React + Tailwind, backend scaffolding with Express
 A full stack MERN application with:
 - React frontend with full CRUD operations
 - Node.js and Express REST API backend
@@ -74,6 +78,7 @@ my-web-learning/
   july-02/  - JavaScript Data Types
   july-03/  - JS Functions, Event Handling, Async/Await and Fetch API
   july-06/  - Basics of React and MERN Stack
+  EMS-Day1/ - Employee Management System Project (Day 1)
 
 ---
 
