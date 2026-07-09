@@ -47,6 +47,7 @@ I update this repo daily with whatever I study each day.
 |---------|----------------------------------------------------|
 | July 6  | Basics of React and MERN Stack                     |
 | July 8  | EMS Project Day 1 - Frontend (Vite+React+Tailwind) & Backend (Express) |
+| July 9  | EMS Project Day 2 - Auth (Login, JWT), Admin & Employee Dashboards |
 
 ---
 
@@ -55,6 +56,7 @@ I update this repo daily with whatever I study each day.
 
 **Progress:**
 - Day 1 (July 8): Set up frontend with Vite + React + Tailwind, backend scaffolding with Express
+- Day 2 (July 9): Added authentication (Login, JWT), User model, Admin & Employee dashboards
 A full stack MERN application with:
 - React frontend with full CRUD operations
 - Node.js and Express REST API backend
