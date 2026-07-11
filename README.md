@@ -49,6 +49,7 @@ I update this repo daily with whatever I study each day.
 | July 8  | EMS Project Day 1 - Frontend (Vite+React+Tailwind) & Backend (Express) |
 | July 9  | EMS Project Day 2 - Auth (Login, JWT), Admin & Employee Dashboards |
 | July 10 | EMS Project Day 3 - Admin Dashboard Components, Department List, Protected Routes |
+| July 11 | EMS Project Day 4 - Department Feature (Add/List Departments, CRUD API) |
 
 ---
 
@@ -59,6 +60,7 @@ I update this repo daily with whatever I study each day.
 - Day 1 (July 8): Set up frontend with Vite + React + Tailwind, backend scaffolding with Express
 - Day 2 (July 9): Added authentication (Login, JWT), User model, Admin & Employee dashboards
 - Day 3 (July 10): Admin dashboard components (Sidebar, Summary, Navbar), Department list, Protected routes
+- Day 4 (July 11): Department feature - Add/List departments, full CRUD API
 A full stack MERN application with:
 - React frontend with full CRUD operations
 - Node.js and Express REST API backend
@@ -85,6 +87,7 @@ my-web-learning/
   EMS-Day1/ - Employee Management System Project (Day 1)
   EMS-Day2/ - Employee Management System Project (Day 2)
   EMS-Day3/ - Employee Management System Project (Day 3)
+  EMS-Day4/ - Employee Management System Project (Day 4)
 
 ---
 
