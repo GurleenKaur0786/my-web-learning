@@ -50,6 +50,7 @@ I update this repo daily with whatever I study each day.
 | July 9  | EMS Project Day 2 - Auth (Login, JWT), Admin & Employee Dashboards |
 | July 10 | EMS Project Day 3 - Admin Dashboard Components, Department List, Protected Routes |
 | July 11 | EMS Project Day 4 - Department Feature (Add/List Departments, CRUD API) |
+| July 13 | MongoDB Concepts - Documents, Collections, Mongoose Schemas, Relationships, Indexes |
 
 ---
 
@@ -88,6 +89,7 @@ my-web-learning/
   EMS-Day2/ - Employee Management System Project (Day 2)
   EMS-Day3/ - Employee Management System Project (Day 3)
   EMS-Day4/ - Employee Management System Project (Day 4)
+  july-13/  - MongoDB Concepts (Detailed)
 
 ---
 
