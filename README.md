@@ -52,6 +52,8 @@ I update this repo daily with whatever I study each day.
 | July 11 | EMS Project Day 4 - Department Feature (Add/List Departments, CRUD API) |
 | July 13 | MongoDB Concepts - Documents, Collections, Mongoose Schemas, Relationships, Indexes |
 | July 14 | EMS Project Day 5 - Edit Department Feature (Update Department Details) |
+| July 16 | Express.js and REST API Concepts - Routing, Controllers, Middleware |
+| July 17 | JWT Authentication and Authorization in Depth |
 
 ---
 
@@ -92,6 +94,8 @@ my-web-learning/
   EMS-Day3/ - Employee Management System Project (Day 3)
   EMS-Day4/ - Employee Management System Project (Day 4)
   EMS-Day5/ - Employee Management System Project (Day 5)
+  july-16/  - Express.js and REST API Concepts
+  july-17/  - JWT Authentication and Authorization
   july-13/  - MongoDB Concepts (Detailed)
 
 ---
