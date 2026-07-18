@@ -54,6 +54,7 @@ I update this repo daily with whatever I study each day.
 | July 14 | EMS Project Day 5 - Edit Department Feature (Update Department Details) |
 | July 16 | Express.js and REST API Concepts - Routing, Controllers, Middleware |
 | July 17 | JWT Authentication and Authorization in Depth |
+| July 18 | React Fundamentals and Hooks - Components, Props, State, useEffect, Context API |
 
 ---
 
@@ -96,6 +97,7 @@ my-web-learning/
   EMS-Day5/ - Employee Management System Project (Day 5)
   july-16/  - Express.js and REST API Concepts
   july-17/  - JWT Authentication and Authorization
+  july-18/  - React Fundamentals and Hooks
   july-13/  - MongoDB Concepts (Detailed)
 
 ---
