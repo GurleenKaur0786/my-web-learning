@@ -50,6 +50,13 @@ I update this repo daily with whatever I study each day.
 | July 9  | EMS Project Day 2 - Auth (Login, JWT), Admin & Employee Dashboards |
 | July 10 | EMS Project Day 3 - Admin Dashboard Components, Department List, Protected Routes |
 | July 11 | EMS Project Day 4 - Department Feature (Add/List Departments, CRUD API) |
+
+---
+
+### Week 4 - Backend/Frontend Deep Dive and EMS Continued (July 13 onwards)
+
+| Date    | Topic                                              |
+|---------|----------------------------------------------------|
 | July 13 | MongoDB Concepts - Documents, Collections, Mongoose Schemas, Relationships, Indexes |
 | July 14 | EMS Project Day 5 - Edit Department Feature (Update Department Details) |
 | July 16 | Express.js and REST API Concepts - Routing, Controllers, Middleware |
